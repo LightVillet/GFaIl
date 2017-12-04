@@ -1,6 +1,6 @@
 void setup()
 {
-  sas
+  size(640, 480);
 }
 
 void draw()
